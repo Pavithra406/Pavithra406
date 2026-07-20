@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Pavithra+Thangadurai;Full+Stack+Developer;AI+%2F+ML+Enthusiast;Problem+Solver+%F0%9F%A7%A9" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Pavithra+Thangadurai;Full+Stack+Developer;AI+%2F+ML+Enthusiast;Problem+Solver+%F0%9F%A7%A9" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -84,8 +84,6 @@ I'm a passionate **Full Stack Developer** and **AI/ML Enthusiast** who loves tur
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </p>
-
-
 
 ---
 
