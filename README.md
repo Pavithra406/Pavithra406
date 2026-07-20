@@ -11,6 +11,8 @@
 
 ## 🚀 About Me
 
+<img align="right" alt="Coding Girl" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius: 12px; margin-left: 20px;"/>
+
 I'm a passionate **Full Stack Developer** and **AI/ML Enthusiast** who loves turning innovative ideas into real-world applications. Debugging code feels like solving puzzles to me! 😄
 
 - 🔭 Currently working on **[IntellHire](https://intellhire-backend.onrender.com)** — an AI-powered hiring platform
@@ -30,9 +32,6 @@ I'm a passionate **Full Stack Developer** and **AI/ML Enthusiast** who loves tur
   </a>
   <a href="https://pavithra406.github.io/NilaByte/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://intellhire-backend.onrender.com" target="_blank">
-    <img src="https://img.shields.io/badge/IntellHire-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="IntellHire"/>
   </a>
 </p>
 
