@@ -1,4 +1,4 @@
-# 💻 Pavithra Thangadurai
+
 <p align="center">
   <img src="profile-banner.png" alt="Pavithra Thangadurai Banner" width="100%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(108, 99, 255, 0.2);" />
 </p>
