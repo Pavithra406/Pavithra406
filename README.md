@@ -184,3 +184,41 @@ ask_me_about:
 
 ---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=pavithra406&show_icons=true&theme=tokyo-night&locale=en&border_color=6C63FF&bg_color=0D1117&title_color=6C63FF&text_color=c9d1d9&icon_color=6C63FF&count_private=true" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavithra406&layout=compact&theme=tokyo-night&border_color=6C63FF&bg_color=0D1117&title_color=6C63FF&text_color=c9d1d9&langs_count=8" width="49%" alt="Top Languages"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pavithra406&theme=tokyo-night&border=6C63FF&background=0D1117&fire=6C63FF&ring=6C63FF&currStreakLabel=6C63FF&sideLabels=c9d1d9&dates=c9d1d9" width="70%" alt="Commit Streak"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pavithra406&theme=tokyo-night&hide_border=true&area=true&color=6C63FF&line=6C63FF&point=ffffff" width="100%" alt="Activity Graph"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=pavithra406&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+
