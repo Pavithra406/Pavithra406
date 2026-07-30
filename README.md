@@ -227,16 +227,7 @@ ask_me_about:
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-<!-- column=-1 = auto-fit (avoids clipping on small screens) -->
-<img src="https://github-profile-trophy.vercel.app/?username=pavithra406&theme=algolia&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=-1" width="100%" alt="GitHub Trophies"/>
-
-</div>
-
----
 
 ## 🎯 Current Focus
 
@@ -249,82 +240,8 @@ ask_me_about:
 ⚡  Fun fact    →  I debug code like I'm solving a mystery novel 🕵️‍♀️
 ```
 
----
+**Thanks for visiting! Drop a ⭐ on anything you find useful.**
 
-## 💭 Dev Quote
-
-<div align="center">
-
-<!-- readme-jokes is more reliable than quotes-github-readme -->
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" width="60%" alt="Dev Joke"/>
-
-</div>
-
----
-
-<div align="center">
-
-*"Turning innovative ideas into real-world applications, one commit at a time."*
-
-<br/>
-
-**💜 Thanks for visiting! Drop a ⭐ on anything you find useful.**
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF,9B59B6,6C63FF&height=100&section=footer" width="100%"/>
-
-</div>
-
----
-
-<details>
-<summary><b>🐍 Want the snake animation?</b> Set up this GitHub Action in your <code>pavithra406/pavithra406</code> repo</summary>
-
-<br/>
-
-Create `.github/workflows/snake.yml`:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"   # runs daily at midnight
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: pavithra406
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Then replace the activity graph image at the top with:
-
-```html
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/pavithra406/pavithra406/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/pavithra406/pavithra406/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation"
-    src="https://raw.githubusercontent.com/pavithra406/pavithra406/output/github-contribution-grid-snake.svg"/>
-</picture>
-```
-
-</details>
 
 
 
