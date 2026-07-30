@@ -1,7 +1,5 @@
 
-<p align="center">
-  <img src="profile-banner.png" alt="Pavithra Thangadurai Banner" width="100%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(108, 99, 255, 0.2);" />
-</p>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Pavithra+Thangadurai;Full+Stack+Developer;AI+%2F+ML+Enthusiast;Problem+Solver+%F0%9F%A7%A9" alt="Typing SVG" />
 </h1>
