@@ -27,6 +27,19 @@
   </tr>
 </table>
 ---
+## 🌐 Connect With Me
+<p align="center">
+  <a href="mailto:pavithrathangaduraitr@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://pavithra406.github.io/NilaByte/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/pavithra406" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+---
 ## 🛠️ Tech Stack & Toolbox
 <table width="100%" border="0">
   <tr>
@@ -116,19 +129,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pavithra406&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 ---
-## 🌐 Connect With Me
-<p align="center">
-  <a href="mailto:pavithrathangaduraitr@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://pavithra406.github.io/NilaByte/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://github.com/pavithra406" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
----
+
 <p align="center">
   <i>"Turning innovative ideas into real-world applications, one commit at a time."</i>
 </p>
