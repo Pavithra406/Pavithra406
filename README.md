@@ -143,3 +143,44 @@ ask_me_about:
 </details>
 
 ---
+
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [IntellHire](https://intellhire-backend.onrender.com)
+> AI-powered recruitment platform that intelligently screens resumes, analyzes candidate profiles, and automates shortlisting with minimal bias.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-6C63FF?style=flat-square)
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-6C63FF?style=flat-square)](https://intellhire-backend.onrender.com)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌴 [AgriCocoScan](https://github.com/Pavithra406/AgriCocoScan)
+> CNN-powered web app that detects coconut leaf diseases from images, provides confidence scores and treatment recommendations for farmers.
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+[![View Repo](https://img.shields.io/badge/📂_View_Repo-181717?style=flat-square&logo=github)](https://github.com/Pavithra406/AgriCocoScan)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
