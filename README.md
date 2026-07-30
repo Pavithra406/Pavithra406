@@ -188,32 +188,30 @@ ask_me_about:
 
 <div align="center">
 
-<!-- Stats + Languages side by side -->
-<img src="https://github-readme-stats.vercel.app/api?username=pavithra406&show_icons=true&theme=tokyo-night&border_color=6C63FF&bg_color=0D1117&title_color=6C63FF&text_color=c9d1d9&icon_color=6C63FF&count_private=true&include_all_commits=true&rank_icon=github" width="48%" alt="GitHub Stats"/>
-&nbsp;
+<!-- Stats card — anuraghazra with cache bypass -->
+<img src="https://github-readme-stats.vercel.app/api?username=pavithra406&show_icons=true&theme=tokyo-night&border_color=6C63FF&bg_color=0D1117&title_color=6C63FF&text_color=c9d1d9&icon_color=6C63FF&count_private=true&include_all_commits=true&rank_icon=github&hide_border=false" width="48%" alt="GitHub Stats"/>
+<!-- Language donut chart -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavithra406&layout=donut&theme=tokyo-night&border_color=6C63FF&bg_color=0D1117&title_color=6C63FF&text_color=c9d1d9&langs_count=8&hide=jupyter%20notebook" width="38%" alt="Top Languages"/>
 
 </div>
 
 <br/>
 
-<!-- Streak Stats — full width -->
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=pavithra406&theme=tokyo-night&border=6C63FF&background=0D1117&fire=6C63FF&ring=6C63FF&currStreakLabel=6C63FF&sideLabels=6C63FF&dates=c9d1d9&sideNums=ffffff&currStreakNum=ffffff&stroke=6C63FF00" width="70%" alt="Commit Streak"/>
+<!-- Streak stats — using nirzak mirror (more stable than demolab/herokuapp) -->
+<img src="https://nirzak-streak-stats.onrender.com?user=pavithra406&theme=tokyo-night&border=6C63FF&background=0D1117&fire=6C63FF&ring=6C63FF&currStreakLabel=6C63FF&sideLabels=c9d1d9&dates=c9d1d9&sideNums=ffffff&currStreakNum=ffffff" width="68%" alt="Commit Streak"/>
 
 </div>
 
 <br/>
 
-<!-- WakaTime / Coding time — optional extras row -->
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pavithra406&theme=tokyonight&utcOffset=5.5" width="32%" alt="Productive Time"/>
-&nbsp;
+<!-- Repos per language + Most commit language — summary cards -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pavithra406&theme=tokyonight" width="32%" alt="Repos Per Language"/>
-&nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pavithra406&theme=tokyonight" width="32%" alt="Most Commit Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pavithra406&theme=tokyonight" width="27%" alt="Stats Card"/>
 
 </div>
 
