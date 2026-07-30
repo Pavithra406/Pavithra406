@@ -3,16 +3,11 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Pavithra+Thangadurai;Full+Stack+Developer;AI+%2F+ML+Enthusiast;Problem+Solver+%F0%9F%A7%A9" alt="Typing SVG" />
 </h1>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pavithra406&label=Profile%20views&color=6C63FF&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/pavithra406?label=Followers&style=for-the-badge&color=6C63FF" alt="GitHub Followers" />
-</p>
+
 
 
 <div align="center">
 
-<!-- Animated Typing Header -->
-<h1><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Pavithra+%F0%9F%91%8B;Full+Stack+Developer;AI+%2F+ML+Enthusiast;Problem+Solver+%F0%9F%A7%A9;Building+the+Future+with+Code+%F0%9F%9A%80" alt="Typing SVG" /></h1>
 
 <!-- Profile Views & Followers -->
 <p>
